@@ -1,16 +1,6 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
+flux
 
 大疆
 DJI
@@ -22,9 +12,11 @@ DJI
 灵犀
 稚晖君
 彭志辉
+张小珺
 
 黑神话
 冯骥
+钟馗
 
 影之刃零
 梁其伟
@@ -40,8 +32,6 @@ DJI
 刘慈欣
 郭帆
 
-申奥
-
 京东
 刘强东
 
@@ -51,6 +41,7 @@ bytedance
 
 特斯拉
 马斯克
+SpaceX
 
 微软
 Microsoft
@@ -65,6 +56,9 @@ AMD
 google
 gemini
 deepmind
+nano banana
+
+meta
 
 chatgpt
 openai
